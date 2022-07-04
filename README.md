@@ -2,11 +2,11 @@
 
 <div>
   <p>
-    Welcome to my GitHub, Strager! 👾 <br>
+    Welcome to my GitHub, Stranger! 👾 <br>
     My name you already know, I'm 27 yo (probably this is not important) and I'm from Brazil. I am a Full Stack Developer and curious on free time. <br>
     I love to travel and learn about new cultures, read fantasy books, these ones  makes me fly around, although I'm still on the same place, and logical challenges since I was a kid, probably that's why I think coding is making magic through screens and keyboards 💻 <br>
     So, how do I ended up doing such crazy things like coding? That was just my brain pushing me for new challenges and it keeps doing this. <br>
-    Here is where I save all my codes (including that old and awkward ones). Feel free to see my repositories and contact me if you want 👋
+    Here is where I save all my codes (including those old and awkward ones). Feel free to see my repositories and contact me if you want 👋
   </p>
 </div>
 
@@ -33,5 +33,5 @@
 
 <div align="center">
   <a href="https://github.com/flaviaprates"><img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=flaviaprates&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/></a>
-  <a href="https://github.com/flaviaprates"><img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviaprates&layout=compact&langs_count=7&theme=ayu-mirage"/></a>
+  <a href="https://github.com/flaviaprates"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviaprates&layout=compact&langs_count=7&theme=ayu-mirage"/></a>
 </div>
