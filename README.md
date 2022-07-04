@@ -32,6 +32,6 @@
 <br><br>
 
 <div align="center">
-  <a href="https://github.com/flaviaprates"><img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=flaviaprates&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/></a>
+  <a href="https://github.com/flaviaprates"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviaprates&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/></a>
   <a href="https://github.com/flaviaprates"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviaprates&layout=compact&langs_count=7&theme=ayu-mirage"/></a>
 </div>
